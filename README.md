@@ -149,6 +149,7 @@ Our repository is organized to reflect the progression through the competition m
 │   ├── Archives/
 │   ├── Business and Cost/
 ├── EVER V_Autonomous Track Rules.pdf
+└── license.md
 └── README.md
 ```
 
