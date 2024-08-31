@@ -118,53 +118,37 @@ Our repository is organized to reflect the progression through the competition m
 /
 ├── Milestone1/
 │   ├── code/
-│   │   ├── open_loop_controller.py
-│   │   ├── trajectory_planner.py
-│   │   └── vehicle_model.py
-│   ├── videos/
-│   │   ├── straight_line.mp4
-│   │   ├── circle.mp4
-│   │   ├── lane_change.mp4
-│   │   └── infinity.mp4
+│   ├── Videos/
+│   ├── CSVs/
 │   └── report.pdf
+│   └── Rules.pdf
+
 ├── Milestone2/
-│   ├── part1_sensor_filtering/
-│   │   ├── kalman_filter.py
-│   │   ├── noise_generator.py
-│   │   └── closed_loop_controller.py
-│   ├── part2_object_detection/
-│   │   ├── yolo_detector.py
-│   │   ├── bounding_box_drawer.py
-│   │   └── performance_analysis.ipynb
-│   └── report.pdf
+│   ├── Vision/
+│   │   ├── Models/
+│   │   ├── Videos/
+│   ├── Noise and control/
+│   │   ├── Matlab Code/
+│   │   ├── ROS Code/
+│   └── Report.pdf
+│   └── Rules.pdf
 ├── Milestone3/
-│   ├── integrated_system/
-│   │   ├── main.py
-│   │   ├── perception/
-│   │   ├── control/
-│   │   ├── planning/
-│   │   └── utils/
-│   ├── custom_track/
-│   │   ├── track_designer.py
-│   │   └── custom_track_simulation.launch
+│   ├── CSVs/
+│   ├── Code/
 │   ├── videos/
-│   │   ├── straight_with_pedestrian.mp4
-│   │   ├── lane_change_obstacles.mp4
-│   │   ├── circular_track.mp4
-│   │   └── custom_track.mp4
-│   └── report.pdf
+│   ├── Vision Models/
+│   ├── Plots/
+│   ├── Objects/
+│   └── Report.pdf
+│   └── Rules.pdf
 ├── RealTimeDemo/
-│   ├── code/
-│   │   ├── real_time_controller.py
-│   │   └── sensor_interface.py
-│   ├── calibration_data/
-│   ├── performance_analysis.pdf
-│   └── demo_video.mp4
-├── utils/
-│   ├── visualization_tools.py
-│   └── data_logger.py
-├── requirements.txt
-├── setup.py
+│   ├── Code/
+│   ├── CSVs/
+│   └── Scene_Real_time.ttt
+├── Additionals/
+│   ├── Archives/
+│   ├── Business and Cost/
+├── EVER V_Autonomous Track Rules.pdf
 └── README.md
 ```
 
